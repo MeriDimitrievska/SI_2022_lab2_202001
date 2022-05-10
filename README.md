@@ -16,6 +16,8 @@ Every statement тестот треба да го измине секој јаз
 
 
 5. list1=[], list2=[0, #, #], list3=[#,#,0,#,0,#,#,0,0], list4=[0,#,#,0,#,0,#,#,#]
+
+
  ![everyBranch202001](https://user-images.githubusercontent.com/85848070/167699484-5b52cae5-2ee1-4216-b898-411d2202ce36.PNG)
  
  
